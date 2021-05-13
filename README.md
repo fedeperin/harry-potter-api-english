@@ -26,6 +26,9 @@ Or visit the principal page of the API (that comes by default with json-server):
 - https://fedeperin-harry-potter-api-en.herokuapp.com/info It brings the information of the API
 - https://fedeperin-harry-potter-api-en.herokuapp.com/characters It brings the information about the characters at the API
 - https://fedeperin-harry-potter-api-en.herokuapp.com/books It only bring the book part of the API <br>
+
+<br>
+Or try some routes at https://harry-potter-api-page.netlify.app/
 --- 
 If you want to access an specific part of the API, just secify the ID number at the end of the route<br>
 #### Examples: 
