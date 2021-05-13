@@ -30,4 +30,4 @@ Or visit the principal page of the API (that comes by default with json-server):
 If you want to access an specific part of the API, just secify the ID number at the end of the route<br>
 #### Examples: 
 - With the route https://fedeperin-harry-potter-api-en.herokuapp.com/books/3 you only access the book with ID 3<br>
-- Con la ruta https://fedeperin-harry-potter-api.herokuapp.com/spells/10 you only access the book with ID 10
+- Con la ruta https://fedeperin-harry-potter-api-en.herokuapp.com/spells/10 you only access the book with ID 10
