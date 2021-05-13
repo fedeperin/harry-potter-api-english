@@ -1,0 +1,653 @@
+{
+    "spells": [{
+            "spell": "Accio",
+            "use": "Summoning charm"
+        },
+        {
+            "spell": "Glisseo",
+            "use": "Turns a staircase into a slide"
+        },
+        {
+            "spell": "Impervius",
+            "use": "Protects caster from a variety of substances, including water and fire"
+        },
+        {
+            "spell": "Wingardium Leviosa/Locomotor",
+            "use": "Levitates objects"
+        },
+        {
+            "spell": "Scourgify",
+            "use": "Cleans things"
+        },
+        {
+            "spell": "Portus",
+            "use": "Creates a portkey"
+        },
+        {
+            "spell": "Orchideous",
+            "use": "Grows flowers from end of wand"
+        },
+        {
+            "spell": "Lumos",
+            "use": "Makes wand emit light"
+        },
+        {
+            "spell": "Reparo",
+            "use": "Repairs broken objects"
+        },
+        {
+            "spell": "Reducio",
+            "use": "Shrinks objects"
+        },
+        {
+            "spell": "Pack",
+            "use": "Packs trunks and luggage"
+        },
+        {
+            "spell": "Riddikulus",
+            "use": "Transforms Boggarts into a humorous shape"
+        },
+        {
+            "spell": "Protego",
+            "use": "Shields caster from curses"
+        },
+        {
+            "spell": "Muffliato",
+            "use": "Keeps others nearby from overhearing conversations"
+        },
+        {
+            "spell": "Silencio/Langlock",
+            "use": "Stops someone from talking (by sticking one's tongue to the roof of his/her mouth)"
+        },
+        {
+            "spell": "Expelliarmus",
+            "use": "Disarming Charm"
+        },
+        {
+            "spell": "Oblivate",
+            "use": "Erases memories"
+        },
+        {
+            "spell": "Episkey",
+            "use": "Heals minor injuries"
+        },
+        {
+            "spell": "Tergeo",
+            "use": "Cleans off surfaces"
+        },
+        {
+            "spell": "Relashio",
+            "use": "Forces target to let go of whatever they're holding"
+        },
+        {
+            "spell": "Confundo",
+            "use": "Causes confusions and makes others easily susceptible to influence"
+        },
+        {
+            "spell": "Expecto Patronum",
+            "use": "Patronus Charm"
+        },
+        {
+            "spell": "Ferula",
+            "use": "Conjures bandages"
+        },
+        {
+            "spell": "Evanesco",
+            "use": "Vanishing spell"
+        },
+        {
+            "spell": "Alohomora",
+            "use": "Opens locks"
+        },
+        {
+            "spell": "Nox",
+            "use": "Turns off lumos"
+        },
+        {
+            "spell": "Quietus",
+            "use": "Quiets magically amplified voice"
+        },
+        {
+            "spell": "Incendio",
+            "use": "Creates fire"
+        },
+        {
+            "spell": "Homenum Revelio",
+            "use": "Reveal people nearby"
+        },
+        {
+            "spell": "Prior Incantato",
+            "use": "Reveals last spell cast"
+        },
+        {
+            "spell": "Finite Incantatem",
+            "use": "Negates the effects of many spells."
+        },
+        {
+            "spell": "Erecto",
+            "use": "Erects tents or other structures"
+        },
+        {
+            "spell": "Diffindo",
+            "use": "Cuts or rips material"
+        },
+        {
+            "spell": "Stupefy",
+            "use": "Stuns target"
+        },
+        {
+            "spell": "Repelo Muggletum",
+            "use": "Repels Muggles"
+        },
+        {
+            "spell": "Avada Kedavra",
+            "use": "The Killing Curse"
+        },
+        {
+            "spell": "Aguamenti",
+            "use": "Shoot water from wand"
+        },
+        {
+            "spell": "Geminio",
+            "use": "Creates temporary, worthless duplicate of any object"
+        },
+        {
+            "spell": "Locomotor Mortis",
+            "use": "Leg-lock curse"
+        },
+        {
+            "spell": "Anapneo",
+            "use": "Clears someone's airway"
+        },
+        {
+            "spell": "Reducto",
+            "use": "Explodes object"
+        },
+        {
+            "spell": "Obscuro",
+            "use": "Blindfolds target"
+        },
+        {
+            "spell": "Impedimenta",
+            "use": "Freezes someone advancing toward you"
+        },
+        {
+            "spell": "Cave Inimicum/Protego Totalum",
+            "use": "Strengthens an area's defenses"
+        },
+        {
+            "spell": "Meteolojinx Recanto",
+            "use": "Ends effects of weather spells"
+        },
+        {
+            "spell": "Specialis Revelio",
+            "use": "Reveals hidden magical properties in an object"
+        },
+        {
+            "spell": "Descendo",
+            "use": "Moves objects downward"
+        },
+        {
+            "spell": "Defodio",
+            "use": "Carves through stone and steel"
+        },
+        {
+            "spell": "Aparecium",
+            "use": "Make invisible ink appear"
+        },
+        {
+            "spell": "Piertotum Locomotor",
+            "use": "Animates statues"
+        },
+        {
+            "spell": "Imperio",
+            "use": "Makes target obey every command"
+        },
+        {
+            "spell": "Fidelius Charm",
+            "use": "binds a secret to the soul of a Secret-Keeper"
+        },
+        {
+            "spell": "Avis/Oppugno",
+            "use": "Shoots flock of birds from wand"
+        },
+        {
+            "spell": "Expulso",
+            "use": "Explodes objects"
+        },
+        {
+            "spell": "Legilimens",
+            "use": "Reveals memories and thoughts of target"
+        },
+        {
+            "spell": "Duro",
+            "use": "Hardens objects"
+        },
+        {
+            "spell": "Sonorus",
+            "use": "Amplifies one's voice"
+        },
+        {
+            "spell": "Deprimo",
+            "use": "Creates great downward pressure"
+        },
+        {
+            "spell": "Levicorpus",
+            "use": "Levitates target by ankle"
+        },
+        {
+            "spell": "Liberacorpus",
+            "use": "Lowers target of levicorpus"
+        },
+        {
+            "spell": "Mobilicorpus",
+            "use": "Moves bodies"
+        },
+        {
+            "spell": "Confringo",
+            "use": "Explodes objects into flames"
+        },
+        {
+            "spell": "Densaugeo",
+            "use": "Makes teeth grow quickly"
+        },
+        {
+            "spell": "Incarcarous",
+            "use": "Ties someone up with ropes"
+        },
+        {
+            "spell": "Deletrius",
+            "use": "Dismisses the effects of Prior Incantato"
+        },
+        {
+            "spell": "Rictusempra",
+            "use": "Tickling Charm"
+        },
+        {
+            "spell": "Petrificus Totalus",
+            "use": "Renders target completely immobile"
+        },
+        {
+            "spell": "Fiendfyre Curse",
+            "use": "Makes cursed fire"
+        },
+        {
+            "spell": "Tarantallegra",
+            "use": "Forces target to dance"
+        },
+        {
+            "spell": "Morsmordre",
+            "use": "Conjures the Dark Mark"
+        },
+        {
+            "spell": "Sectumsempra",
+            "use": "Causes severe lacerations"
+        },
+        {
+            "spell": "Crucio",
+            "use": "Causes immense pain"
+        }
+    ],
+    "info": [
+        {
+            "type": "Author",
+            "content": "J. K. Rowling"
+        },
+        {
+            "type": "Protagonist",
+            "content": "Harry Potter"
+        },
+        {
+            "type": "Antatagonist",
+            "content": "Lord Voldemort"
+        },
+        {
+            "type": "Harry Potter's magic wand",
+            "content": "Harry Potter's wand was 11 long, made of holly, and possessed a phoenix feather core. This was described by Garrick Ollivander to be an unusual combination of wand core and wood. The feather was donated by Fawkes, Albus Dumbledore's phoenix."
+        },
+        {
+            "type": "Lord Voldemort's magic wand",
+            "content": "Lord Voldemort's wand was 11 long, made of holly, and possessed a phoenix feather core. This was described by Garrick Ollivander to be an unusual combination of wand core and wood. The feather was donated by Fawkes, Albus Dumbledore's phoenix."
+        },
+        {
+            "type": "Lord Voldemort's real name",
+            "content": "Tom Marvolo Riddle (mixing the letters it ends up being Lord Voldemort)"
+        },
+        {
+            "type": "Houses",
+            "content": "At the school Hogwarts there are four houses: Gryffindor, Ravenclaw, Hufflepuff and Slytherin"
+        },
+        {
+            "type": "Wands",
+            "content": "Harry's wand and Voldemort's wand were twins, that's why they couldn't kill each other"
+        }
+    ],
+    "characters": [
+        {
+            "id": 1,
+            "character": "Harry James Potter",
+            "nickname": "Harry",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Daniel Radcliffe",
+            "child": [
+                "James Sirius Potter",
+                "Albus Severus Potter",
+                "Lily Luna Potter"
+            ],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/harry_potter.png"
+        },
+        {
+            "id": 2,
+            "character": "Hermione Jean Granger",
+            "nickname": "Hermione",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Emma Watson",
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/hermione_granger.png"
+        },
+        {
+            "id": 3,
+            "character": "Ron Weasley",
+            "nickname": "Ron",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Rupert Grint",
+            "child": [
+                "Rose Granger-Weasley",
+                "Hugo Granger-Weasley"
+            ],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/ron_weasley.png"
+        },
+        {
+            "id": 4,
+            "character": "Fred Weasley",
+            "nickname": "Fred",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "James Phelps",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/fred_weasley.png"
+        },
+        {
+            "id": 5,
+            "character": "George Weasley",
+            "nickname": "George",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Oliver Phelps",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/george_weasley.png"
+        },
+        {
+            "id": 6,
+            "character": "Bill Weasley",
+            "nickname": "Bill",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Domhnall Gleeson",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/bill_weasley.png"
+        },
+        {
+            "id": 7,
+            "character": "Percy Weasley",
+            "nickname": "Percy",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Chris Rankin",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/percy_weasley.png"
+        },
+        {
+            "id": 8,
+            "character": "Charlie Weasley",
+            "nickname": "Charlie",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "ninguno",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/charlie_weasley.png"
+        },
+        {
+            "id": 9,
+            "character": "Ginny Weasley",
+            "nickname": "Ginny",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Bonnie Right",
+            "child": [
+                "James Sirius Potter",
+                "Albus Severus Potter",
+                "Lily Luna Potter"
+            ],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/ginny_weasley.png"
+        },
+        {
+            "id": 10,
+            "character": "Molly Weasley",
+            "nickname": "Molly",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Julie Walters",
+            "child": [
+                "Ron Weasley",
+                "Fred Weasley",
+                "George Weasley",
+                "Bill Weasley",
+                "Percy Weasley",
+                "Charlie Weasley",
+                "Ginny Weasley"
+            ],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/molly_weasley.png"
+        },
+        {
+            "id": 11,
+            "character": "Arthur Weasley",
+            "nickname": "Arthur",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Mark Williams",
+            "child": [
+                "Ron Weasley",
+                "Fred Weasley",
+                "George Weasley",
+                "Bill Weasley",
+                "Percy Weasley",
+                "Charlie Weasley",
+                "Ginny Weasley"
+            ],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/arthur_weasley.png"
+        },
+        {
+            "id": 12,
+            "character": "Neville Longbottom",
+            "nickname": "Neville",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Matthew Lewis",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/neville_longbottom.png"
+        },
+        {
+            "id": 13,
+            "character": "Luna Lovegood",
+            "nickname": "Luna",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Ravenclaw",
+            "interpretedBy": "Evanna Lynch",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/luna_lovegood.png"
+        },
+        {
+            "id": 14,
+            "character": "Draco Malfoy",
+            "nickname": "Draco",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Slytherin",
+            "interpretedBy": "Tom Felton",
+            "child": [
+                "Scorpius Malfoy"
+            ],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/draco_malfoy.png"
+        },
+        {
+            "id": 15,
+            "character": "Albus Percival Wulfric Brian Dumbledore",
+            "nickname": "Dumbledore",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Richard Harris",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/albus_dumbledore.png"
+        },
+        {
+            "id": 16,
+            "character": "Minerva McGonagall",
+            "nickname": "Minerva",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Maggie Smith",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/minerva_mcgonnagall.png"
+        },
+        {
+            "id": 17,
+            "character": "Remus Lupin",
+            "nickname": "Lupin",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "David Thewils",
+            "child": [
+                "Ted Lupin"
+            ],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/remus_lupin.png"
+        },
+        {
+            "id": 18,
+            "character": "Rubeus Hagrid",
+            "nickname": "Hagrid",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Robbie Coltrane",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/rubeus_hagrid.png"
+        },
+        {
+            "id": 19,
+            "character": "Sirius Black",
+            "nickname": "Sirius",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Gryffindor",
+            "interpretedBy": "Gary Oldman",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/sirius_black.png"
+        },
+        {
+            "id": 20,
+            "character": "Severus Snape",
+            "nickname": "Snape",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Slytherin",
+            "interpretedBy": "Alan Rickman",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/severus_snape.png"
+        },
+        {
+            "id": 21,
+            "character": "Bellatrix Lestrange",
+            "nickname": "Bella",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Slytherin",
+            "interpretedBy": "Helena Bonham Carter",
+            "child": [
+                "Delphi"
+            ],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/bellatrix_lestrange.png"
+        },
+        {
+            "id": 22,
+            "character": "Lord Voldemort",
+            "nickname": "Voldemort",
+            "hogwartsStudent": true,
+            "hogwartsHouse": "Slytherin",
+            "interpretedBy": "Ralph Fiennes",
+            "child": [
+                "Delphi"
+            ],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/lord_voldemort.png"
+        },
+        {
+            "id": 23,
+            "character": "Argus Filch",
+            "nickname": "Filch",
+            "hogwartsStudent": false,
+            "hogwartsHouse": "ninguna",
+            "interpretedBy": "David Bradley",
+            "child": [],
+            "image": "https://raw.githubusercontent.com/fedeperin/harry-potter-api-english/main/images/argus_filch.png"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "releaseDay": "June 26, 1997",
+            "author": "J. K. Rowling",
+            "description": "On his birthday, Harry Potter discovers that he is the son of two well-known wizards, from whom he has inherited magical powers. He must attend a famous school of magic and sorcery, where he establishes a friendship with two young men who will become his companions on his adventure. During his first year at Hogwarts, he discovers that a malevolent and powerful wizard named Voldemort is in search of a philosopher's stone that prolongs the life of its owner."
+        },
+        {
+            "id": 2,
+            "title": "Harry Potter and the chamber of secrets",
+            "releaseDay": "July 2, 1998",
+            "author": "J. K. Rowling",
+            "description": "Harry Potter and the sophomores investigate a malevolent threat to their Hogwarts classmates, a menacing beast that hides within the castle."
+        },
+        {
+            "id": 3,
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "releseDay": "July 8, 1999",
+            "author": "J. K. Rowling",
+            "description": "Harry's third year of studies at Hogwarts is threatened by Sirius Black's escape from Azkaban prison. Apparently, it is a dangerous wizard who was an accomplice of Lord Voldemort and who will try to take revenge on Harry Potter."
+        },
+        {
+            "id": 4,
+            "title": "Harry Potter and the Goblet of Fire",
+            "releaseDay": "July 8, 2000",
+            "author": "J. K. Rowling",
+            "description": "Hogwarts prepares for the Triwizard Tournament, in which three schools of wizardry will compete. To everyone's surprise, Harry Potter is chosen to participate in the competition, in which he must fight dragons, enter the water and face his greatest fears."
+        },
+        {
+            "id": 5,
+            "title": "Harry Potter and the Order of the Phoenix",
+            "releaseDay": "June 21, 2003",
+            "author": "J. K. Rowling",
+            "description": "In his fifth year at Hogwarts, Harry discovers that many members of the wizarding community do not know the truth about his encounter with Lord Voldemort. Cornelius Fudge, Minister of Magic, appoints Dolores Umbridge as Defense Against the Dark Arts teacher because he believes that Professor Dumbledore plans to take over her job. But his teachings are inadequate, so Harry prepares the students to defend the school against evil."
+        },
+        {
+            "id": 6,
+            "title": "Harry Potter and the Half-Blood Prince",
+            "releaseDay": "July 16, 2005",
+            "author": "J. K. Rowling",
+            "description": "Harry discovers a powerful book and, while trying to discover its origins, collaborates with Dumbledore in the search for a series of magical objects that will aid in the destruction of Lord Voldemort."
+        },
+        {
+            "id": 7,
+            "title": "Harry Potter and the Deathly Hallows",
+            "releaseDay": "July 21, 2007",
+            "author": "J. K. Rowling",
+            "description": "Harry, Ron and Hermione go on a dangerous mission to locate and destroy the secret of Voldemort's immortality and destruction - the Horcruces. Alone, without the guidance of their teachers or the protection of Professor Dumbledore, the three friends must lean on each other more than ever. But there are Dark Forces in between that threaten to tear them apart. Harry Potter is getting closer and closer to the task for which he has been preparing since the first day he set foot in Hogwarts: the last battle with Voldemort."
+        },
+        {
+            "id": 8,
+            "title": "Harry Potter and the Cursed Child",
+            "releaseDay": "July 30, 2016",
+            "author": "J. K. Rowling",
+            "description": "Harry's second son entered Hogwarts, but in Slytherin. His relationship with Harry is getting worse and he became close friends with Draco's son, Scorpius Malfoy who is said to be Lord Voldemort's son."
+        }
+    ]
+}
