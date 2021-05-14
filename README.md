@@ -30,7 +30,9 @@ Or visit the principal page of the API (that comes by default with json-server):
 <br>
 Or try some routes at https://harry-potter-api-page.netlify.app/ <br>
 <br>
-If you want to access an specific part of the API, just secify the ID number at the end of the route<br>
+If you want to access an specific part of the API, just secify the ID number at the end of the route<br><br>
 Examples: <br>
 - With the route https://fedeperin-harry-potter-api-en.herokuapp.com/books/3 you only access the book with ID 3<br>
-- With the route https://fedeperin-harry-potter-api-en.herokuapp.com/spells/10 you only access the book with ID 10
+- With the route https://fedeperin-harry-potter-api-en.herokuapp.com/spells/10 you only access the book with ID 10 <br><br>
+
+Spanish Version: https://github.com/fedeperin/harry-potter-api/
