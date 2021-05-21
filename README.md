@@ -18,7 +18,7 @@ fetch("https://fedeperin-harry-potter-api-en.herokuapp.com/db")
 	})
 	.catch((e) => console.log(e));
 ```
-Or visit the principal page of the API (that comes by default with json-server): https://fedeperin-harry-potter-api-en.herokuapp.com/
+Or visit the principal page of this API (that comes by default with json-server): https://fedeperin-harry-potter-api-en.herokuapp.com/
 
 ## Endpoints
 - https://fedeperin-harry-potter-api-en.herokuapp.com/db Brings all the API
