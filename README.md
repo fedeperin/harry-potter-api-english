@@ -1,5 +1,5 @@
 # Harry Potter API
-A Harry Potter rest API that brings information about spells, characters, books and information itself. I used Node js with the package json-server for creating it and I hosted it on Heroku <br>
+A Harry Potter rest API that brings information about spells, characters, books and information itself. I used Node js with the only package json-server for creating it and I hosted it on Heroku <br>
 
 - GitHub repository of json-server: https://github.com/typicode/json-server <br>
 - Download Node.js: https://nodejs.org/ <br>
@@ -8,7 +8,7 @@ A Harry Potter rest API that brings information about spells, characters, books 
 If you want to download the code, execute by terminal with Node js installed  ``npm i json-server``
 
 ## How to use
-If your'e using JavaScript you can copy and paste the following code <br>
+If your'e using JavaScript you can copy and paste the following code to use the API<br>
 ```javascript
 fetch("https://fedeperin-harry-potter-api-en.herokuapp.com/db")
 	.then((res) => res.json())
@@ -18,10 +18,10 @@ fetch("https://fedeperin-harry-potter-api-en.herokuapp.com/db")
 	})
 	.catch((e) => console.log(e));
 ```
-Or visit the principal page of this API (that comes by default with json-server): https://fedeperin-harry-potter-api-en.herokuapp.com/
+Or visit the main page of this API (that comes by default with json-server): https://fedeperin-harry-potter-api-en.herokuapp.com/
 
 ## Endpoints
-- https://fedeperin-harry-potter-api-en.herokuapp.com/db Brings all the API
+- https://fedeperin-harry-potter-api-en.herokuapp.com/db Brings all the data at the API
 - https://fedeperin-harry-potter-api-en.herokuapp.com/spells It bring the spells at the API
 - https://fedeperin-harry-potter-api-en.herokuapp.com/info It brings the information of the API
 - https://fedeperin-harry-potter-api-en.herokuapp.com/characters It brings the information about the characters at the API
@@ -37,4 +37,4 @@ If you want to access an specific part of the API, just secify the ID number at 
 * With the route https://fedeperin-harry-potter-api-en.herokuapp.com/books/3 you only access the book with ID 3<br>
 * With the route https://fedeperin-harry-potter-api-en.herokuapp.com/spells/10 you only access the book with ID 10 <br><br>
 
-Version in spanish of the API: https://github.com/fedeperin/harry-potter-api/
+Version in spanish of this API: https://github.com/fedeperin/harry-potter-api/
