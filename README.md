@@ -37,4 +37,4 @@ If you want to access an specific element at the API, just secify the ID number 
 * With the route https://fedeperin-harry-potter-api-en.herokuapp.com/books/3 you only access the book with ID 3<br>
 * With the route https://fedeperin-harry-potter-api-en.herokuapp.com/spells/10 you only access the book with ID 10 <br><br>
 
-Version in spanish of this API: https://github.com/fedeperin/harry-potter-api/
+Spanish version of this API: https://github.com/fedeperin/harry-potter-api/
