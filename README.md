@@ -8,12 +8,12 @@ A Harry Potter Rest API that returns information about spells, characters, books
 If you want to download the code, execute by terminal with Node js installed  ``npm i json-server``
 
 ## How to use
-If you are using JavaScript you can copy and paste the following code to use this API<br>
+If you are using JavaScript you can copy and paste the following code to use this API <br>
 ```javascript
 fetch("https://fedeperin-harry-potter-api-en.herokuapp.com/db")
 	.then((res) => res.json())
 	.then((data) => {
-		// It brings all data and it shows it by console
+		// It brings all data and it shows it at the console
 		console.log(data)
 	})
 	.catch((e) => console.log(e));
