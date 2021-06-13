@@ -13,7 +13,7 @@ If you are using JavaScript you can copy and paste the following code to use thi
 fetch("https://fedeperin-harry-potter-api-en.herokuapp.com/db")
 	.then((res) => res.json())
 	.then((data) => {
-		// It brings all data and it shows it at the console
+		// It brings all data at the API and it shows it at the console
 		console.log(data)
 	})
 	.catch((e) => console.log(e));
