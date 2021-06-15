@@ -5,7 +5,7 @@ A Harry Potter Rest API that returns information about spells, characters, books
 - Install Node.js: https://nodejs.org/ <br>
 - Hosting webpage: https://heroku.com/ <br>
 
-If you want to download the code, execute by terminal with Node js installed  ``npm i json-server``
+For installing the dependencies, execute by terminal with Node js installed  ``npm i json-server``
 
 ## How to use
 Here is a JavaScript example of fetching the entire API. Just change tha value of the const ``urlToFetch`` for changing the URL being fetched.<br>
