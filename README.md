@@ -23,11 +23,11 @@ fetch(urlToFetch)
 Or visit the main page of this API (that comes by default with json-server): https://fedeperin-harry-potter-api-en.herokuapp.com/
 
 ## Endpoints
-- https://fedeperin-harry-potter-api-en.herokuapp.com/db Brings all the data at the API
-- https://fedeperin-harry-potter-api-en.herokuapp.com/spells It bring the spells at the API
-- https://fedeperin-harry-potter-api-en.herokuapp.com/info It brings the information of the API
-- https://fedeperin-harry-potter-api-en.herokuapp.com/characters It brings the information about the characters at the API
-- https://fedeperin-harry-potter-api-en.herokuapp.com/books It only bring the book part of the API <br>
+* https://fedeperin-harry-potter-api-en.herokuapp.com/db Brings all the data at the API
+* https://fedeperin-harry-potter-api-en.herokuapp.com/spells It bring the spells at the API
+* https://fedeperin-harry-potter-api-en.herokuapp.com/info It brings the information of the API
+* https://fedeperin-harry-potter-api-en.herokuapp.com/characters It brings the information about the characters at the API
+* https://fedeperin-harry-potter-api-en.herokuapp.com/books It only bring the book part of the API <br>
 
 <br>
 Try some routes at the page https://harry-potter-api-page.netlify.app/ <br>
