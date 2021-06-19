@@ -8,7 +8,7 @@ A Harry Potter Rest API that returns information about spells, characters, books
 For installing the dependencies, execute by terminal with Node js installed  ``npm install json-server``
 
 ## How to use
-Here is a JavaScript example of fetching the entire API. Just change tha value of the const ``urlToFetch`` for changing the URL being fetched. `` urlToFetch `` value can be changed by an enpoint of the API<br>
+Here is a JavaScript example of fetching the entire API. Just change tha value of the const ``urlToFetch`` for changing the URL being fetched. ``urlToFetch`` value can be changed by an enpoint of the API<br>
 ```javascript
 const urlToFetch = "https://fedeperin-harry-potter-api-en.herokuapp.com/db"
 
@@ -39,4 +39,4 @@ If you want to access an specific element at the API, just secify the ID number 
 * With the route https://fedeperin-harry-potter-api-en.herokuapp.com/books/3 you only access the book at the API with ID 3<br>
 * With the route https://fedeperin-harry-potter-api-en.herokuapp.com/spells/10 you only access the spell at the API with ID 10 <br><br>
 ---
-Spanish version of this API: https://github.com/fedeperin/harry-potter-api/
+Repo of the Spanish version of this API: https://github.com/fedeperin/harry-potter-api/
