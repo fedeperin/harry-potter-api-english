@@ -32,7 +32,7 @@ Or visit the main page of this API (that comes by default with json-server): htt
 <br><br>
 Search for routes at the page https://harry-potter-api-page.netlify.app/ <br>
 <br>
-If you want to access an specific element at the API, just secify the ID number of that element at the end of the route <br><br>
+To access an specific element at the API, just secify the ID number of that element at the end of the route <br><br>
 
 
 #### Examples: 
