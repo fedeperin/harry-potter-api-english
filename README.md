@@ -1,11 +1,11 @@
 # Harry Potter API
-A Harry Potter Rest API that returns information about spells, characters, books and information about the saga. I used Node.js with the only package json-server for creating it. This Harry Potter API is hosted at heroku <br>
+A Harry Potter Rest API that returns information about spells, characters, books and information about the saga. I used Node js with the only package json-server for creating it. This Harry Potter API is hosted at heroku <br>
 
 * GitHub repository of json-server: https://github.com/typicode/json-server <br>
 * Node js webpage: https://nodejs.org/ <br>
 * Hosting heroku webpage: https://heroku.com/ <br>
 
-For installing the dependencies, execute by terminal with Node.js installed  ``npm install json-server``
+For installing the dependencies, execute by terminal with Node js installed  ``npm install json-server``
 
 ## How to use
 Here is a JavaScript example of fetching the entire API. Just change tha value of the const ``urlToFetch`` for changing the URL being fetched. ``urlToFetch`` value can be changed by an enpoint of the API for feching different things <br>
