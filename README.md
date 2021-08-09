@@ -1,4 +1,4 @@
-# Harry Potter API
+# Harry Potter API 
 A Harry Potter Rest API that returns information about spells, characters, books and information itself. I used node.js with the only package json-server for creating it. This Harry Potter API is hosted at heroku <br>
 
 * GitHub repository of json-server: https://github.com/typicode/json-server <br>
