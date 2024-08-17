@@ -1,6 +1,6 @@
 # Harry Potter API
 > [!IMPORTANT]  
-> [PotterAPI](https://github.com/fedeperin/potterapi) is a new version of this API, available en multiple languages and actualized. I recommend using that one instead of this one.
+> [PotterAPI](https://github.com/fedeperin/potterapi) is a new version of this API, available en multiple languages and updated with new information. I recommend using that one instead of this one.
 
 A Harry Potter Rest API that returns information about spells, characters, books and information itself. I used node.js with the only package json-server for creating it. This Harry Potter API is hosted at Render<br>
 
